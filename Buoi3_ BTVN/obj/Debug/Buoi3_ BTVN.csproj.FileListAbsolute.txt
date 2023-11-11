@@ -1,0 +1,10 @@
+D:\Buoi3_ BTVN\obj\Debug\Buoi3_ BTVN.csproj.AssemblyReference.cache
+D:\Buoi3_ BTVN\obj\Debug\Buoi3__BTVN.Buoi3_BTVN.resources
+D:\Buoi3_ BTVN\obj\Debug\Buoi3__BTVN.Properties.Resources.resources
+D:\Buoi3_ BTVN\obj\Debug\Buoi3_ BTVN.csproj.GenerateResource.cache
+D:\Buoi3_ BTVN\obj\Debug\Buoi3_ BTVN.csproj.CoreCompileInputs.cache
+D:\Buoi3_ BTVN\bin\Debug\Buoi3_ BTVN.exe.config
+D:\Buoi3_ BTVN\bin\Debug\Buoi3_ BTVN.exe
+D:\Buoi3_ BTVN\bin\Debug\Buoi3_ BTVN.pdb
+D:\Buoi3_ BTVN\obj\Debug\Buoi3_ BTVN.exe
+D:\Buoi3_ BTVN\obj\Debug\Buoi3_ BTVN.pdb
